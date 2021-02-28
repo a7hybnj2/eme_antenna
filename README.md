@@ -1,7 +1,9 @@
 # eme antenna
 
 ## Todo:
-- reformat pictures so they work on github
+- [ ] reformat pictures so they work on github
+- [ ] test flex of slot
+- [ ] test nut and bolt size
 
 ## Notes:
 70cm EME portable station
