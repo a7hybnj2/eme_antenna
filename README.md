@@ -1,5 +1,8 @@
 # eme antenna
 
+## Todo:
+- reformat pictures so they work on github
+
 ## Notes:
 70cm EME portable station
 
