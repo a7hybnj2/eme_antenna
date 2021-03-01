@@ -4,6 +4,7 @@
 - [ ] reformat pictures so they work on github
 - [ ] test flex of slot
 - [ ] test nut and bolt size
+- [ ] reverse nut and bolt for main bracket so both can be loosened when installed
 
 ## Notes:
 70cm EME portable station
